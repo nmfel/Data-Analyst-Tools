@@ -1,5 +1,5 @@
-Project pembuatan tools untuk mempermudah proses analisis data sentimen
+Project to create tools to simplify the sentiment data analysis process.
 
-Data file import berupa CSV dan juga hasil export berupa CSV
+Data file import in CSV format and export results in CSV format.
 
-Project ini masih pada tahap awal dan sedang dalam proses pengerjaan, untuk saat ini hanya bisa cleansing text dan normalisasi bahasa slang dalam Indonesia
+This project is still in its early stages and currently in progress. At this time, it can only cleanse text and normalize slang in Indonesian.
